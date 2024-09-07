@@ -1,0 +1,93 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "hackoverflow-sample(Autosaved).xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "ExtractDataTable&Sequence_16",
+        "cellval2&Sequence_16",
+        "j&Sequence_16",
+        "newcell&Sequence_16",
+        "first&Sequence_16",
+        "second&Sequence_16",
+        "cellval&Sequence_20",
+        "ri&Sequence_20",
+        "status&Sequence_20",
+        "itemValue&Sequence_20",
+        "index&Sequence_20"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "summa.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "j&Sequence_1",
+        "itemValue&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "......................xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "status&Sequence_4",
+        "index&Sequence_4",
+        "a&Sequence_4",
+        "dt&Sequence_4",
+        "r&Sequence_4",
+        "c&Sequence_4",
+        "st&Sequence_4",
+        "ExtractDataTable&Sequence_2",
+        "opdt&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "op&Sequence_1",
+        "t&Sequence_1",
+        "s&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "hackoverflow-sample.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "ExtractDataTable&Sequence_16",
+        "cellval2&Sequence_16",
+        "j&Sequence_16",
+        "newcell&Sequence_16",
+        "first&Sequence_16",
+        "second&Sequence_16",
+        "cellval&Sequence_20",
+        "ri&Sequence_20",
+        "status&Sequence_20",
+        "itemValue&Sequence_20",
+        "index&Sequence_20"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    }
+  ]
+}
